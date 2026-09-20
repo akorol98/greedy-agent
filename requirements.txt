@@ -1,0 +1,3 @@
+grid2op==1.12.5
+lightsim2grid==1.0.0
+numba==0.67.0
